@@ -26,6 +26,8 @@ The assembly uses different SolidWorks mates like:
 
 ## Preview
 <img width="1627" height="822" alt="image" src="https://github.com/user-attachments/assets/8f2f0571-8771-49f6-b3ee-cedb8128fb76" />
+<img width="1281" height="787" alt="image" src="https://github.com/user-attachments/assets/11d5d2ba-9170-40d9-834e-febb87ab643d" />
+
 
 ## Conclusion
 This design demonstrates a simple mechanical gripper system controlled by a servo motor using SolidWorks assembly constraints.
